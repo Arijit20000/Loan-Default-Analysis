@@ -2,13 +2,12 @@
 
 ## About
 This project is based on a loan dataset where I tried to understand why people default on loans.  
-I used Python (Pandas + Matplotlib) for analysis and visualization.
+I used Python (Pandas) for analysis.
 
 ## What I did
 - Cleaned the dataset
 - Converted some columns into proper format
 - Analyzed different factors affecting loan default
-- Created graphs to understand patterns
 
 ## Key Findings
 - People with lower income are more likely to default
