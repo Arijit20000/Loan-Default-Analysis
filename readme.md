@@ -18,11 +18,5 @@ I used Python (Pandas + Matplotlib) for analysis and visualization.
 - Credit score did not show strong impact in this dataset
 - Employment experience also had very little impact
 
-## Graphs
-- Bar charts for comparing categories
-- Histogram for income distribution
-- Boxplot for income comparison
-- Credit score distribution graph
-
 ## Conclusion
 Income level and financial burden are the main factors behind loan default.
